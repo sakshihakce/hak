@@ -101,7 +101,7 @@ function App() {
               <span className="event-label">Prize Pool:</span>
               <span className="event-value prize">6.5 Lakhs</span>
             </div>
-            <button className="register-btn" disabled>Registration Link Coming Soon</button>
+            <button className="register-btn" disabled>Scan QR to Register</button>
           </div>
         </section>
         <section className="qr-center-card bigger-card">
